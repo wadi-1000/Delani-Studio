@@ -44,7 +44,7 @@ My third website for a studio offering its services.
 
 If any problems arise contact me at:
 
--  [email](zw.mk@gmail.com)
+-  [email](jk.mk@gmail.com)
 
 ### License
 
