@@ -28,4 +28,8 @@ if($("#product-management-1").is(":visible")){
 }
 
 });
+
+$("#btn").onclick(function(){
+    alert("Thank you we have recieved your message. Thank you for reaching out to us.")
+});
 });
